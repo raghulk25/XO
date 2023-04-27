@@ -1,4 +1,4 @@
 # XO
 XO game site
 just a simple xo game site using html css javascript
-here is the site link:
+here is the site link:https://raghulsxo.netlify.app/
